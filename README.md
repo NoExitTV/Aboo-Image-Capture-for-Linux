@@ -1,5 +1,5 @@
 # Aboo-Image-Capture-for-Linux
-Lightweight image capture script for Linux written in bash. Captured images can both be saved to disk or uploaded to [Aboo.se](https://aboo.se/)
+Lightweight image capture script for Linux written in bash. Captured images can both be saved to disk or uploaded to [aboo.se](https://aboo.se/)
 by using the [api.aboo.se](https://api.aboo.se/) public api.
 
 ## Dependencies
@@ -7,9 +7,6 @@ There are a minimal number of dependencies that needs to be installed in order f
 `maim` - Used to capture image region.  
 `jq` - Used to parse json request from upload.  
 `xclip` - Used to copy url to clipboard.  
-
-On manjaro you can install these by typing:  
-`sudo pacman -Syu maim jq xclip`
 
 ## Installation / Setup
 1. Make sure you have the dependencies mentioned above installed on your system
