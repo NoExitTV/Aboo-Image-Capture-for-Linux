@@ -1,5 +1,5 @@
 # Aboo-Image-Capture-for-Linux
-Lightweight image capture script for Linux written in bash. Captured images can both be saved to disk or uploaded to [aboo.se](https://aboo.se/)
+Lightweight image capture script for Linux written in bash. Captured images can both be saved to disk and/or uploaded to [aboo.se](https://aboo.se/)
 by using the [api.aboo.se](https://api.aboo.se/) public api.  
 
 When executing the aboo-capture.sh file, the user will be able to capture a region of the screen by drawing a rectangle with the mouse.
